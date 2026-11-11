@@ -1,0 +1,38 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Database files
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Backup folders
+*_Backup/
+*_backup/
+
+# Secret files
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Windows shortcut files
+*.lnk
+
+# System files
+.DS_Store
+Thumbs.db
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python environment files
+.python-version

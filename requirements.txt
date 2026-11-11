@@ -1,0 +1,9 @@
+
+streamlit
+feedparser
+nltk
+spacy
+textblob
+scikit-learn
+pandas
+numpy
